@@ -1,10 +1,5 @@
-# Hi 👋 I'm Megha  
+# Hi 👋 I'm Meghana
 
-🎓 Cybersecurity & ML Enthusiast  
-🛡️ Aspiring SOC Analyst | Blue Team | Threat Detection  
-💻 Building security-focused ML & full-stack projects  
-
----
 
 ## 🔎 About Me
 
