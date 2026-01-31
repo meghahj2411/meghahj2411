@@ -22,7 +22,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-javascript)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
 
 **Cybersecurity & Tools**  
